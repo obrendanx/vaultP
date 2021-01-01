@@ -1,0 +1,41 @@
+*{
+  padding:0;
+  margin:0;
+  box-sizing:border-box;
+}
+
+body{
+
+}
+
+.main-nav{
+  height:50px;
+  width:100%;
+  background:#070000;
+}
+
+.nav-head{
+  height:50px;
+  position:absolute;
+  left:0;
+  line-height:50px;
+  margin-left:10px;
+  font-family: SeoulNamsan CL;
+  color:#df2036;
+}
+
+.lgn-btn{
+  height:50px;
+  position:absolute;
+  right:0;
+  width:75px;
+  border:none;
+  background:#070000;
+}
+.lgn-btn a{
+  display:block;
+  height:50px;
+  width:75px;
+  text-decoration:none;
+  color:#fff;
+}
